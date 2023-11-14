@@ -1,6 +1,6 @@
 # lab-github <br>
 
-## Previous commit in github
+**Previous commit in github** <br>
 
 ```
 git reset --hard HEAD^
