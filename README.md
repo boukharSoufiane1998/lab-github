@@ -1,5 +1,12 @@
 # lab-github <br>
 
+## Previous commit in github
+
+```
+git reset --hard HEAD^
+
+```
+
 **Steps to make conflict** <br>
 
 After collaborate with someone else to work on same repo 
